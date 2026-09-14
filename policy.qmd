@@ -1,0 +1,301 @@
+---
+title: "Policy & Media"
+pagetitle: "Policy & Media | Finn Ole Semrau"
+description: "*Policy analysis, advice and public commentary on industrial policy, decarbonisation and hydrogen*"
+toc: false
+format:
+  html:
+    css:
+      - styles.css
+      - policy.css
+---
+
+:::::: {.policy-page}
+
+::: {.pp-intro}
+
+I contribute to current policy debates on the **Industrial Accelerator Act**, the green transformation of energy-intensive industries and the scale-up of hydrogen. Understanding **Chinese industrial policy** and its implications for European firms and policymakers is a central part of this work.
+
+As Deputy Research Head of the [Industrial Policy Lab](https://industrialpolicylab.de/de/start/){.pp-link}, I contribute policy analysis, take part in discussions with ministries and industry and provide interviews and commentary for the media. I assess where intervention is justified and how policy can address specific problems while preserving competition.
+
+:::
+
+## Current Policy Debates
+
+:::: {.pp-topic-grid}
+
+::: {.pp-topic}
+
+### The Industrial Accelerator Act {.pp-topic-title}
+
+I assess the design of the Industrial Accelerator Act and its role in Europe’s response to the China-Shock 2.0, asking whether instruments such as low-carbon procurement, local-content requirements and conditions on foreign investment are well matched to the objectives of decarbonisation, resilience and competitiveness.
+
+:::
+
+::: {.pp-topic}
+
+### Decarbonising Energy-Intensive Industry {.pp-topic-title}
+
+I examine how carbon pricing, innovation support and demand for low-carbon materials can support industrial decarbonisation, with a particular focus on the EU Industrial Accelerator Act.
+
+:::
+
+::: {.pp-topic}
+
+### Hydrogen {.pp-topic-title}
+
+Through the H2ignite project, I work on hydrogen innovation ecosystems in the North Sea region and regularly exchange with industry and policy stakeholders on the challenges of technology development and scale-up.
+
+:::
+
+::: {.pp-topic}
+
+### Understanding Chinese Industrial Policy {.pp-topic-title}
+
+I examine how national priorities, local government competition and support for firms shape China's technological upgrading, including ongoing research on subnational competition for hydrogen leadership, and what this means for Europe's policy response.
+
+:::
+
+::::
+
+## Selected Policy Outputs
+
+:::: {.pp-publications .pp-selected}
+
+::: {.pp-paper #china-shock-wirtschaftsdienst}
+
+<p class="pp-publication">Wirtschaftsdienst · 2026 · 106(9)</p>
+
+### China-Schock 2.0 trifft Deutschland: Was kann der Industrial Accelerator Act leisten? {.pp-title lang=de}
+
+<p class="pp-authors">Schöl, B.; Semrau, F. O.</p>
+
+<details class="pp-summary">
+<summary>Short summary<span class="pp-sr-only">: China-Schock 2.0 trifft Deutschland</span></summary>
+<p>China's competitive pressure exposes weaknesses in Germany's export model. We assess where low-carbon and origin requirements can support industrial transformation, why they are ill-suited to counter distortions from Chinese industrial policy and how they should fit within a wider climate, trade and competitiveness policy mix.</p>
+</details>
+
+<p class="pp-full-text"><a class="pp-link" href="https://www.wirtschaftsdienst.eu/inhalt/jahr/2026/heft/9/beitrag/china-schock-2-0-trifft-deutschland-was-kann-der-industrial-accelerator-act-leisten.html">Read full text (German) <span aria-hidden="true">→</span><span class="pp-sr-only">: China-Schock 2.0 trifft Deutschland</span></a></p>
+
+:::
+
+::: {.pp-paper #iaa-intereconomics}
+
+<p class="pp-publication">Intereconomics · 2026 · 61(4), 240–248</p>
+
+### The EU Industrial Accelerator Act: Strategic Ambitions and Design Challenges {.pp-title}
+
+<p class="pp-authors">Binder, J.; Dohse, D.; Görg, H.; Liu, W.-H.; Schöl, B.; Semrau, F. O.</p>
+
+<details class="pp-summary">
+<summary>Short summary<span class="pp-sr-only">: The EU Industrial Accelerator Act</span></summary>
+<p>The IAA brings together decarbonisation, resilience and competitiveness without sufficiently matching its instruments to these distinct objectives. We argue for narrower strategic priorities, a clearer economic case for local-content and investment requirements and continued openness where it strengthens European capabilities.</p>
+</details>
+
+<p class="pp-full-text"><a class="pp-link" href="https://www.intereconomics.eu/contents/year/2026/number/4/article/the-eu-industrial-accelerator-act-strategic-ambitions-and-design-challenges.html">Read full text (English) <span aria-hidden="true">→</span><span class="pp-sr-only">: The EU Industrial Accelerator Act</span></a></p>
+
+:::
+
+
+::: {.pp-paper #resilient-supply-chains}
+
+<p class="pp-publication">UNIDO · 2025 · Insights on Industrial Development, Policy Brief No. 26</p>
+
+### Resilient Global Supply Chains in Times of Escalating Trade Costs {.pp-title}
+
+<p class="pp-authors">Mahlkow, H.; Semrau, F. O.; Steglich, F.; Pahl, S.; Stucki, V.</p>
+
+<details class="pp-summary">
+<summary>Short summary<span class="pp-sr-only">: Resilient Global Supply Chains in Times of Escalating Trade Costs</span></summary>
+<p>Rising tariffs and other trade costs threaten development through global supply chains. We identify routes to greater resilience through diversified markets, domestic and regional production links, value-chain upgrading and stronger standards and investment conditions.</p>
+</details>
+
+<p class="pp-full-text"><a class="pp-link" href="https://www.unido.org/sites/default/files/unido-publications/2025-10/IID%20Policy%20Brief%2026%20-%20Resilient%20global%20supply%20chains%20in%20times%20of%20escalating%20trade%20costs.pdf">Read full text (English, PDF) <span aria-hidden="true">→</span><span class="pp-sr-only">: Resilient Global Supply Chains in Times of Escalating Trade Costs</span></a></p>
+
+:::
+
+::: {.pp-paper #eu-due-diligence}
+
+<p class="pp-publication">European Parliament · 2023 · Study for the Committee on International Trade</p>
+
+### The Cumulative Effect of Due Diligence EU Legislation on SMEs {.pp-title}
+
+<p class="pp-authors">Thiele, R.; Hanley, A.; Semrau, F. O.; Steglich, F.</p>
+
+<details class="pp-summary">
+<summary>Short summary<span class="pp-sr-only">: The Cumulative Effect of Due Diligence EU Legislation on SMEs</span></summary>
+<p>This study for the European Parliament examines the implications of proposed EU due diligence legislation for small and medium-sized enterprises and their participation in global value chains. It contributes to the debate on how sustainability requirements affect firms beyond those directly covered by regulation.</p>
+</details>
+
+<p class="pp-full-text"><a class="pp-link" href="https://www.europarl.europa.eu/RegData/etudes/STUD/2023/702597/EXPO_STU(2023)702597_EN.pdf">Read full text (English, PDF) <span aria-hidden="true">→</span><span class="pp-sr-only">: The Cumulative Effect of Due Diligence EU Legislation on SMEs</span></a></p>
+
+:::
+
+::::
+
+::: {.pp-talk-photo}
+
+![](images/policy_talk2.jpg)
+
+:::
+
+## Further Policy Writing
+
+
+:::: {.pp-publications}
+
+::: {.pp-paper}
+
+<p class="pp-publication">Wirtschaftsdienst · 2024 · 104(5), 301–305</p>
+
+### Innovationspolitik für die Transformation zur Klimaneutralität {.pp-title lang=de}
+
+<p class="pp-authors">Peterson, S.; Semrau, F. O.</p>
+
+<details class="pp-summary">
+<summary>Short summary<span class="pp-sr-only">: Innovationspolitik für die Transformation zur Klimaneutralität</span></summary>
+<p>Public R&amp;D support can help clean technologies develop, but it works best within a coherent policy mix with carbon pricing at its centre. We discuss how support should reflect technological maturity and complement incentives for emissions reductions.</p>
+</details>
+
+<p class="pp-full-text"><a class="pp-link" href="https://www.wirtschaftsdienst.eu/inhalt/jahr/2024/heft/5/beitrag/innovationspolitik-fuer-die-transformation-zur-klimaneutralitaet.html">Read full text (German) <span aria-hidden="true">→</span><span class="pp-sr-only">: Innovationspolitik für die Transformation zur Klimaneutralität</span></a></p>
+
+:::
+
+::: {.pp-paper}
+
+<p class="pp-publication">UNIDO Industrial Analytics Platform · 2023</p>
+
+### Greening Global Value Chains: Emerging Countries' Upstream Industries {.pp-title}
+
+<p class="pp-authors">Semrau, F. O.</p>
+
+<details class="pp-summary">
+<summary>Short summary<span class="pp-sr-only">: Greening Global Value Chains</span></summary>
+<p>I use evidence from Indian manufacturing firms to show why upstream production deserves more attention in climate policy. Technology transfer, trade relationships and environmental requirements in export markets can help emissions-intensive producers adopt cleaner technologies.</p>
+</details>
+
+<p class="pp-full-text"><a class="pp-link" href="https://iap.unido.org/articles/greening-global-value-chains-emerging-countries-upstream-industries">Read full text (English) <span aria-hidden="true">→</span><span class="pp-sr-only">: Greening Global Value Chains</span></a></p>
+
+:::
+
+::::
+
+## Policy Advice & Dialogue
+
+My policy work includes studies for the European Parliament and UNIDO, expert exchanges with German federal ministries and discussions with industry representatives. Alongside publications, I participate in exchanges between researchers, policymakers and industry representatives and contribute to expert workshops and public events. Recent events are listed below:
+
+:::: {.pp-events}
+
+::: {.pp-event}
+
+<p class="pp-event-date">2026</p>
+
+::: {.pp-event-copy}
+
+### Federal Ministry for Economic Affairs and Energy {.pp-event-title}
+
+Invited participant in an expert workshop on the Industrial Accelerator Act and the Clean Industrial Deal.
+
+:::
+:::
+
+::: {.pp-event}
+
+<p class="pp-event-date">May 2026</p>
+
+::: {.pp-event-copy}
+
+### Deutsche Bundesbank · Forum Bundesbank {.pp-event-title}
+
+Invited speaker on European industrial policy, competitiveness and strategic dependencies at “Made in Europe? Industriepolitik im globalen Wettbewerb”, Kiel.
+
+[Event details →](https://www.kielinstitut.de/de/veranstaltungen/made-in-europe-industriepolitik-im-globalen-wettbewerb/){.pp-link}
+
+:::
+:::
+
+::: {.pp-event}
+
+<p class="pp-event-date">March 2026</p>
+
+::: {.pp-event-copy}
+
+### Global China Conversations · Kiel Institute {.pp-event-title}
+
+Invited speaker and panellist on the Industrial Accelerator Act and its implications for economic relations between the EU and China in strategic sectors.
+
+[Event details →](https://www.kielinstitut.de/events/global-china-conversations/the-industrial-accelerator-act-will-the-eu-manage-to-reshape-economic-relations-with-china-in-strategic-sectors/){.pp-link}
+
+:::
+:::
+
+::: {.pp-event}
+
+<p class="pp-event-date">2025–2026</p>
+
+::: {.pp-event-copy}
+
+### Policy Dinners on Industrial Policy Design - Kiel Institute {.pp-event-title}
+
+Organiser and participant, bringing together representatives from academia, industry and policy.
+
+:::
+:::
+
+::: {.pp-event}
+
+<p class="pp-event-date">2025</p>
+
+::: {.pp-event-copy}
+
+### France Stratégie {.pp-event-title}
+
+Invited speaker on innovation policy for the transition to climate neutrality at the National Committee for the Evaluation of Innovation Policies.
+
+:::
+:::
+
+::: {.pp-event}
+
+<p class="pp-event-date">2024</p>
+
+::: {.pp-event-copy}
+
+### PowerNet · Neumünster {.pp-event-title}
+
+Organiser, speaker and panellist at “Hydrogen Valley Northern Germany: Green Transformation in a Globalized World”.
+
+:::
+:::
+
+::::
+
+## Media & Public Commentary
+
+I regularly discuss research and economic policy with wider audiences through interviews and commentary, among others for *dpa, Deutschlandfunk, NDR, MDR* and *ProSieben*. My contributions cover industrial policy, the green transition and commodity markets.
+
+::: {.pp-commentary}
+
+<p class="pp-publication">Table.Briefings · 25 March 2026 · Opinion</p>
+
+### IAA: A Step in the Right Direction – but Just One Step {.pp-title}
+
+<p class="pp-authors">Johannes Binder and Finn Ole Semrau</p>
+
+A joint commentary on Europe's industrial policy response to China and the scope and sectoral priorities of the Industrial Accelerator Act.
+
+<p class="pp-full-text"><a class="pp-link" href="https://table.media/en/china/opinion/iaa-a-step-in-the-right-direction-but-just-one-step">Read commentary (English; subscription required) <span aria-hidden="true">→</span></a></p>
+
+:::
+
+::: {.pp-contact}
+
+### Interviews, Briefings & Speaking Invitations {.pp-contact-title}
+
+For enquiries about the Industrial Accelerator Act, industrial decarbonisation, hydrogen or Chinese industrial policy, please get in touch.
+
+<p class="pp-contact-action"><a class="pp-button" href="mailto:FinnOle.Semrau@KielInstitut.de">Get in touch <span aria-hidden="true">→</span></a></p>
+
+:::
+
+::::::

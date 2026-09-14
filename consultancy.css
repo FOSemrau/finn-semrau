@@ -1,0 +1,391 @@
+/* =========================================================
+   CONSULTANCY PAGE: BASE / DESKTOP
+   Load after styles.css using the YAML in consultancy.qmd.
+   All rules are scoped to this page.
+   ========================================================= */
+
+.consultancy-page {
+  --cp-accent: #c65335;
+  --cp-accent-dark: #a9442d;
+  --cp-panel: #eee9e1;
+  --cp-line: #d7cfc4;
+  --cp-muted: #625d56;
+  width: 100%;
+  max-width: 1080px;
+  min-width: 0;
+  margin-inline: auto;
+  line-height: 1.65;
+}
+
+.consultancy-page,
+.consultancy-page * {
+  box-sizing: border-box;
+}
+
+.consultancy-page p {
+  margin: 0 0 1rem;
+  line-height: 1.65;
+}
+
+.consultancy-page h2 {
+  margin: 3rem 0 1.25rem;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid var(--cp-line);
+  line-height: 1.25;
+  overflow-wrap: break-word;
+}
+
+/* Links share the surrounding text's metrics. */
+.consultancy-page a.cp-link,
+.consultancy-page a.cp-link:visited {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  box-shadow: none;
+  color: var(--cp-accent-dark);
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+  vertical-align: baseline;
+  white-space: normal;
+  overflow-wrap: break-word;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
+.consultancy-page a.cp-link:hover {
+  color: var(--cp-accent-dark);
+  text-decoration-thickness: 2px;
+}
+
+.consultancy-page a.cp-link:focus-visible {
+  outline: 2px solid var(--cp-accent-dark);
+  outline-offset: 4px;
+  border-radius: 2px;
+}
+
+
+/* =========================================================
+   INTRODUCTION AND PHOTOGRAPH
+   Automatic height preserves the entire photograph and sign.
+   ========================================================= */
+
+.consultancy-page .cp-intro {
+  display: grid;
+  grid-template-columns: minmax(0, 1.55fr) minmax(0, 0.8fr);
+  gap: 2.5rem;
+  align-items: center;
+  margin: 0 0 3rem;
+  padding: 2.25rem;
+  background: var(--cp-panel);
+  border-radius: 4px;
+}
+
+.consultancy-page .cp-intro-copy,
+.consultancy-page .cp-photo {
+  min-width: 0;
+}
+
+.consultancy-page .cp-intro-copy > :first-child {
+  margin-top: 0;
+}
+
+.consultancy-page .cp-intro-copy > :last-child {
+  margin-bottom: 0;
+}
+
+.consultancy-page .cp-photo {
+  width: 100%;
+  max-width: 330px;
+  margin: 0;
+  justify-self: center;
+}
+
+.consultancy-page .cp-photo p,
+.consultancy-page .cp-photo figure,
+.consultancy-page .cp-photo .quarto-figure {
+  margin: 0;
+}
+
+.consultancy-page .cp-photo img,
+.consultancy-page .cp-photo img.cp-photo-image {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  min-height: 0;
+  max-height: none;
+  aspect-ratio: auto;
+  object-fit: contain;
+  object-position: center;
+  border-radius: 3px;
+}
+
+
+/* =========================================================
+   ASSIGNMENTS: DESKTOP TABLE
+   ========================================================= */
+
+.consultancy-page table.cp-assignment-table {
+  width: 100%;
+  max-width: 100%;
+  margin: 1.5rem 0 0;
+  border: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
+  table-layout: fixed;
+  background: transparent;
+  font-family: inherit;
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+.consultancy-page .cp-col-period { width: 13%; }
+.consultancy-page .cp-col-project { width: 38%; }
+.consultancy-page .cp-col-role { width: 27%; }
+.consultancy-page .cp-col-days { width: 10%; }
+.consultancy-page .cp-col-abroad { width: 12%; }
+
+.consultancy-page .cp-assignment-table th,
+.consultancy-page .cp-assignment-table td {
+  margin: 0;
+  padding: 1.25rem 0.9rem;
+  border: 0;
+  border-bottom: 1px solid var(--cp-line);
+  background: transparent;
+  box-shadow: none;
+  color: inherit;
+  font-size: inherit;
+  font-weight: 400;
+  line-height: 1.55;
+  text-align: left;
+  vertical-align: top;
+  overflow-wrap: break-word;
+}
+
+.consultancy-page .cp-assignment-table thead th {
+  padding-block: 0.9rem;
+  border-top: 2px solid var(--cp-accent);
+  background: var(--cp-panel);
+  font-size: 0.9rem;
+  font-weight: 600;
+  vertical-align: bottom;
+}
+
+.consultancy-page .cp-assignment-table tbody tr {
+  background: transparent;
+}
+
+.consultancy-page .cp-assignment-table .cp-period {
+  color: var(--cp-muted);
+  font-size: 0.95rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.consultancy-page .cp-assignment-title {
+  display: block;
+  font-weight: 600;
+}
+
+.consultancy-page .cp-client {
+  display: block;
+  margin-top: 0.35rem;
+  color: var(--cp-muted);
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+
+.consultancy-page a.cp-output-link {
+  font-size: 0.9rem;
+}
+
+.consultancy-page .cp-assignment-table .cp-number {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.consultancy-page .cp-assignment-table sup {
+  position: relative;
+  top: -0.4em;
+  margin-left: 0.1em;
+  font-size: 0.8em;
+  line-height: 0;
+  vertical-align: baseline;
+}
+
+.consultancy-page .cp-mobile-label {
+  display: none;
+}
+
+.consultancy-page .cp-notes {
+  max-width: 86ch;
+  margin: 1.25rem 0 2.5rem;
+  color: var(--cp-muted);
+  font-size: 0.9rem;
+  line-height: 1.65;
+}
+
+.consultancy-page .cp-notes p {
+  margin-bottom: 0.65rem;
+}
+
+.consultancy-page #cp-unido-note {
+  scroll-margin-top: 6rem;
+}
+
+.consultancy-page .cp-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+
+/* =========================================================
+   TABLET AND MOBILE
+   Each table row becomes a record with visible field labels.
+   Explicit HTML roles preserve the table's relationships.
+   ========================================================= */
+
+@media (max-width: 850px) {
+  .consultancy-page .cp-intro {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.75rem;
+    margin-bottom: 2.25rem;
+    padding: 1.75rem;
+  }
+
+  .consultancy-page .cp-photo {
+    width: 75%;
+    max-width: 300px;
+  }
+
+  .consultancy-page .cp-photo img,
+  .consultancy-page .cp-photo img.cp-photo-image {
+    width: 100%;
+    height: auto;
+    min-height: 0;
+    max-height: none;
+    aspect-ratio: auto;
+    object-fit: contain;
+  }
+
+  .consultancy-page h2 {
+    margin-top: 2.25rem;
+  }
+
+  .consultancy-page table.cp-assignment-table,
+  .consultancy-page .cp-assignment-table tbody {
+    display: block;
+    width: 100%;
+  }
+
+  .consultancy-page .cp-assignment-table colgroup {
+    display: none;
+  }
+
+  .consultancy-page .cp-assignment-table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    clip-path: inset(50%);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  .consultancy-page .cp-assignment-table tbody tr {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.85rem 1.25rem;
+    margin: 0;
+    padding: 1.5rem 0;
+    border-bottom: 1px solid var(--cp-line);
+  }
+
+  .consultancy-page .cp-assignment-table tbody tr:first-child {
+    border-top: 2px solid var(--cp-accent);
+  }
+
+  .consultancy-page .cp-assignment-table tbody th,
+  .consultancy-page .cp-assignment-table tbody td {
+    display: block;
+    min-width: 0;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-align: left;
+  }
+
+  .consultancy-page .cp-assignment-table .cp-period,
+  .consultancy-page .cp-assignment-table .cp-project,
+  .consultancy-page .cp-assignment-table .cp-role {
+    grid-column: 1 / -1;
+  }
+
+  .consultancy-page .cp-assignment-table .cp-period {
+    color: var(--cp-accent-dark);
+  }
+
+  .consultancy-page .cp-assignment-title {
+    font-size: 1.1rem;
+    line-height: 1.45;
+  }
+
+  .consultancy-page .cp-client {
+    margin-top: 0.3rem;
+  }
+
+  .consultancy-page .cp-mobile-label {
+    display: block;
+    margin: 0 0 0.15rem;
+    color: var(--cp-muted);
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.4;
+  }
+
+  .consultancy-page .cp-period .cp-mobile-label {
+    display: inline;
+    margin-right: 0.5rem;
+  }
+
+  .consultancy-page .cp-assignment-table .cp-days,
+  .consultancy-page .cp-assignment-table .cp-abroad {
+    padding-top: 0.3rem;
+  }
+
+  .consultancy-page .cp-notes {
+    margin-bottom: 2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .consultancy-page .cp-intro {
+    gap: 1.5rem;
+    padding: 1.25rem;
+  }
+
+  .consultancy-page .cp-photo {
+    width: 85%;
+    max-width: 260px;
+  }
+
+  .consultancy-page .cp-assignment-table tbody tr {
+    column-gap: 1rem;
+    padding-block: 1.35rem;
+  }
+}

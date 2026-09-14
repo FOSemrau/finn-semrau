@@ -1,0 +1,336 @@
+/* =========================================================
+   RESEARCH PAGE: BASE
+   Loaded only by research.qmd. Existing site styles remain.
+   ========================================================= */
+
+.research-page {
+  --rp-accent: #c65335;
+  --rp-accent-dark: #a9442d;
+  --rp-panel: #eee9e1;
+  --rp-line: #d7cfc4;
+  --rp-muted: #625d56;
+  max-width: 1080px;
+  margin-inline: auto;
+  line-height: 1.65;
+}
+
+.research-page,
+.research-page * {
+  box-sizing: border-box;
+}
+
+.research-page .rp-intro {
+  max-width: 78ch;
+  margin: 0 0 2.5rem;
+}
+
+
+.research-page h2 {
+  margin: 3rem 0 1.25rem;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid var(--rp-line);
+  line-height: 1.25;
+  overflow-wrap: break-word;
+}
+
+.research-page h3.rp-title {
+  margin: 0 0 0.7rem;
+  padding: 0;
+  border: 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.4;
+  overflow-wrap: break-word;
+}
+
+/* Keep links inline so they do not enlarge line spacing. */
+.research-page a.rp-link,
+.research-page a.rp-link:visited {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  box-shadow: none;
+  color: var(--rp-accent-dark);
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+  vertical-align: baseline;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+  white-space: normal;
+  overflow-wrap: break-word;
+}
+
+.research-page a.rp-link:hover {
+  color: var(--rp-accent-dark);
+  text-decoration-thickness: 2px;
+}
+
+.research-page a.rp-link:focus-visible,
+.research-page .rp-summary > summary:focus-visible {
+  outline: 2px solid var(--rp-accent-dark);
+  outline-offset: 4px;
+  border-radius: 2px;
+}
+
+
+/* =========================================================
+   PUBLICATIONS: DESKTOP / BASE
+   ========================================================= */
+
+.research-page .rp-publications {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1.25rem;
+  margin: 0;
+}
+
+.research-page .rp-paper {
+  min-width: 0;
+  margin: 0;
+  padding: 1.5rem 1.75rem;
+  border: 1px solid var(--rp-line);
+  border-radius: 4px;
+  background: transparent;
+  box-shadow: none;
+}
+
+.research-page .rp-selected .rp-paper {
+  padding: 1.75rem 2rem;
+  border-left: 4px solid var(--rp-accent);
+  background: var(--rp-panel);
+}
+
+.research-page .rp-selected h3.rp-title {
+  font-size: 1.4rem;
+}
+
+.research-page p.rp-journal {
+  margin: 0 0 0.8rem;
+  font-size: 0.95rem;
+  font-weight: 500;
+  line-height: 1.6;
+}
+
+.research-page p.rp-authors {
+  margin: 0 0 0.9rem;
+  color: var(--rp-muted);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+
+/* =========================================================
+   EXPANDABLE SUMMARIES
+   Native details/summary: no JavaScript required.
+   ========================================================= */
+
+.research-page details.rp-summary {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.research-page .rp-summary > summary {
+  display: list-item;
+  width: fit-content;
+  max-width: 100%;
+  min-height: 44px;
+  margin: 0;
+  padding: 0.55rem 0.15rem;
+  color: var(--rp-accent-dark);
+  font-size: 0.95rem;
+  font-weight: 500;
+  line-height: 1.5;
+  cursor: pointer;
+  list-style: disclosure-closed inside;
+}
+
+.research-page .rp-summary[open] > summary {
+  list-style-type: disclosure-open;
+}
+
+.research-page .rp-summary > summary::marker {
+  color: var(--rp-accent);
+}
+
+.research-page .rp-summary > summary:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.research-page .rp-summary > p {
+  max-width: 78ch;
+  margin: 0.45rem 0 0;
+  padding: 0.2rem 0 0.2rem 1rem;
+  border-left: 2px solid var(--rp-accent);
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+/* Give repeated controls distinct names for screen readers. */
+.research-page .rp-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+
+/* =========================================================
+   WORK IN PROGRESS AND BOOK CHAPTER
+   ========================================================= */
+
+.research-page .rp-work-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem 2rem;
+  align-items: start;
+}
+
+.research-page .rp-work {
+  min-width: 0;
+  padding: 1.35rem 0;
+  border-top: 2px solid var(--rp-line);
+}
+
+.research-page .rp-work > p:last-child,
+.research-page .rp-chapter > p:last-child {
+  margin-bottom: 0;
+}
+
+.research-page .rp-work p.rp-status {
+  margin: 0 0 0.65rem;
+  color: var(--rp-accent-dark);
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+.research-page .rp-chapter {
+  margin: 0;
+  padding: 0.5rem 0;
+}
+
+.research-page .rp-book {
+  line-height: 1.65;
+}
+
+.research-page .rp-footer {
+  margin: 2.5rem 0 1.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rp-line);
+}
+
+.research-page .rp-footer p {
+  margin: 0;
+}
+
+
+/* =========================================================
+   RESEARCH PAGE: MOBILE
+   ========================================================= */
+
+@media (max-width: 850px) {
+
+.research-page .rp-intro p:last-child {
+  margin-bottom: 0;
+}
+
+  .research-page .rp-publications {
+    gap: 1rem;
+  }
+
+  .research-page .rp-paper,
+  .research-page .rp-selected .rp-paper {
+    padding: 1.2rem;
+  }
+
+  .research-page h3.rp-title,
+  .research-page .rp-selected h3.rp-title {
+    font-size: 1.15rem;
+  }
+
+  .research-page p.rp-journal,
+  .research-page p.rp-authors {
+    font-size: 0.9rem;
+  }
+
+  .research-page .rp-work-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.75rem;
+  }
+
+  .research-page .rp-summary > p {
+    padding-left: 0.8rem;
+  }
+
+  .research-page .rp-footer {
+    margin-top: 2rem;
+  }
+}
+
+/* =========================================================
+   RESEARCH PHOTO: DESKTOP
+   ========================================================= */
+
+.research-page .rp-talk-photo {
+  max-width: 800px;
+  margin: 2.5rem auto 3rem;
+}
+
+.research-page .rp-talk-photo p,
+.research-page .rp-talk-photo figure,
+.research-page .rp-talk-photo .quarto-figure {
+  margin: 0;
+}
+
+.research-page .rp-talk-photo img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  max-height: none;
+  aspect-ratio: auto;
+  margin-inline: auto;
+  border-radius: 4px;
+}
+
+
+/* =========================================================
+   RESEARCH PHOTO: MOBILE
+   ========================================================= */
+
+@media (max-width: 850px) {
+  .research-page .rp-talk-photo {
+    max-width: 100%;
+    margin: 2rem auto 2.5rem;
+  }
+
+  .research-page .rp-talk-photo img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* =========================================================
+   INTRO PARAGRAPH SPACING
+   ========================================================= */
+
+.research-page .rp-intro > p {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.research-page .rp-intro > p + p {
+  margin-top: 1.25rem !important;
+}

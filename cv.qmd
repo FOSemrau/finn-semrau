@@ -1,0 +1,51 @@
+---
+---
+
+::: {.cv-intro}
+
+<div class="section-kicker">CURRICULUM VITAE</div>
+
+# Academic & Professional CV
+
+I am an economist working on **industrial policy, global value chains, foreign direct investment and the green transition**, combining academic research with policy engagement and international project experience.
+
+[Download full CV ↓](files/Finn_Ole_Semrau_CV_personal_HP.pdf){.cv-download target="_blank"}
+
+:::
+
+
+::: {.cv-highlights}
+
+::: {.cv-highlight}
+
+### Research
+
+Peer-reviewed research in international, environmental, development and innovation economics.
+
+:::
+
+::: {.cv-highlight}
+
+### Policy
+
+Deputy Research Head of the Industrial Policy Lab with experience in policy advice, public engagement and international organisations.
+
+:::
+
+::: {.cv-highlight}
+
+### International Experience
+
+Research stays and projects across Europe and development cooperation experience in Africa.
+
+:::
+
+:::
+
+
+## Full CV
+
+<iframe
+  src="files/Finn_Ole_Semrau_CV_personal_HP.pdf"
+  class="cv-frame">
+</iframe>

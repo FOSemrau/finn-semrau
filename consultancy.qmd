@@ -1,0 +1,235 @@
+---
+title: "Consultancy"
+pagetitle: "Consultancy | Finn Ole Semrau"
+description: "*Independent consultancy in development cooperation: evaluation, survey design, statistical sampling, project coordination and training*"
+toc: false
+format:
+  html:
+    css:
+      - styles.css
+      - consultancy.css
+---
+
+:::::: {.consultancy-page}
+
+:::: {.cp-intro}
+
+::: {.cp-intro-copy}
+
+Since 2016, I have completed **Over 20 assignments and over 500 consulting days** as an independent consultant and international expert in development cooperation.
+
+My work for GIZ, GFA Consulting Group, UNIDO and other partners combines empirical research with survey design, statistical sampling, monitoring and evaluation. Assignments range from baseline and endline studies to sampling guidance and policy analysis.
+
+I have also worked as a **team leader, coordinator and trainer**, overseeing data collection and methodological quality and working with project teams and local partners. This includes fieldwork in Mozambique and repeated assignments across different phases of development programmes.
+
+:::
+
+::: {.cp-photo}
+
+![](images/consultancy2.JPG){.cp-photo-image fig-alt="Mozambique 2017."}
+
+:::
+
+::::
+
+::::::
+
+<!-- ## Consultancy Assignments -->
+
+<!-- The overview lists assignment periods, clients, roles and recorded days. Days abroad are included in the total. A dash means that no separate number of days abroad is recorded. -->
+
+<!-- ```{=html} -->
+<!-- <table class="cp-assignment-table" role="table" aria-describedby="cp-assignment-notes"> -->
+<!--   <caption class="cp-sr-only">Consultancy assignments, with periods, clients, roles, total days and recorded days abroad.</caption> -->
+<!--   <colgroup> -->
+<!--     <col class="cp-col-period"> -->
+<!--     <col class="cp-col-project"> -->
+<!--     <col class="cp-col-role"> -->
+<!--     <col class="cp-col-days"> -->
+<!--     <col class="cp-col-abroad"> -->
+<!--   </colgroup> -->
+<!--   <thead role="rowgroup"> -->
+<!--     <tr role="row"> -->
+<!--       <th scope="col" role="columnheader">Period</th> -->
+<!--       <th scope="col" role="columnheader">Assignment &amp; client</th> -->
+<!--       <th scope="col" role="columnheader">Role</th> -->
+<!--       <th scope="col" role="columnheader" class="cp-number">Days</th> -->
+<!--       <th scope="col" role="columnheader" class="cp-number">Days abroad</th> -->
+<!--     </tr> -->
+<!--   </thead> -->
+<!--   <tbody role="rowgroup"> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2025</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"> -->
+<!--         <span class="cp-assignment-title">Resilient Global Supply Chains in Times of Escalating Trade Costs</span> -->
+<!--         <span class="cp-client">UNIDO</span> -->
+<!--         <a class="cp-link cp-output-link" href="https://www.unido.org/sites/default/files/unido-publications/2025-10/IID%20Policy%20Brief%2026%20-%20Resilient%20global%20supply%20chains%20in%20times%20of%20escalating%20trade%20costs.pdf">Read policy brief (PDF) <span aria-hidden="true">→</span></a> -->
+<!--       </th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>Co-author</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>2<sup><a class="cp-link cp-note-ref" href="#cp-unido-note" aria-label="Note on UNIDO assignment days">*</a></sup></td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2024–2025</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">GIAE Endline Evaluation — Côte d’Ivoire</span><span class="cp-client">GFA Consulting Group</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>Team leader</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>26</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2024</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">GIAE Endline Evaluation — India</span><span class="cp-client">GFA Consulting Group</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>International expert</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>8</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2024–2025</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">Statistical Sampling Guidebook</span><span class="cp-client">GFA Consulting Group</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>International expert</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>20</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2023–2026</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">Coordination of GIAE Endline Evaluations</span><span class="cp-client">GFA Consulting Group</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>International expert; endline coordination</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>25</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2023</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">Sustainable Fisheries and Aquaculture — Cambodia</span><span class="cp-client">GIZ</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>Consultant</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>25</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2023–2024</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">Sustainable Fisheries and Aquaculture — Mauritania</span><span class="cp-client">GIZ</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>Consultant</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>33</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2023</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">GIAE Impact Evaluation — Mozambique</span><span class="cp-client">GFA Consulting Group</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>International expert</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>10</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2023</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">Sustainable Fisheries and Aquaculture — Madagascar Endline Evaluation</span><span class="cp-client">GIZ</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>Consultant; endline report author</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>27</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2023</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">GIAE Surveys of Micro, Small and Medium-sized Enterprises</span><span class="cp-client">GFA Consulting Group</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>International expert</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>10</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2022</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">Evaluation of the Insight Information System</span><span class="cp-client">GFA Consulting Group</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>International expert</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>4</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2022–2023</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">ProEcon — Coordination, Training and Quality Assurance</span><span class="cp-client">GIZ</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>Team leader, coordinator and trainer</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>15</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2021–2022</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">Fisheries and Aquaculture Studies</span><span class="cp-client">GFA Consulting Group</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>International expert</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>55</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2019–2022</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">GIAE Mozambique — Three Rounds of Data Collection</span><span class="cp-client">GIZ</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>Team leader, coordinator and trainer</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>76</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span>15</td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2019–2021</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">ProEcon Baseline Study — Nampula and Zambezia, Mozambique</span><span class="cp-client">GFA Consulting Group</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>Team leader</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>25</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2018–2019</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">GIAE Midterm Evaluations</span><span class="cp-client">GFA Consulting Group</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>International expert</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>65</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2018</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">Verification and Analysis of Monitoring Data</span><span class="cp-client">GIZ</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>International expert</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>5</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2018</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">Baseline Study</span><span class="cp-client">NewLink</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>Consultant</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>6</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2017</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">Survey Instrument for an African Trade Union</span><span class="cp-client">GFA Consulting Group</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>International expert</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>6</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2016–2018</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">GIAE Mozambique Baseline and Data Quality in India and Tunisia</span><span class="cp-client">GIZ</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>International expert</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>45</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span>23</td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2016–2017</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">GIAE Monitoring Support</span><span class="cp-client">GIZ</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>International expert</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>25</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--     <tr role="row"> -->
+<!--       <td role="cell" class="cp-period"><span class="cp-mobile-label" aria-hidden="true">Period</span>2016</td> -->
+<!--       <th scope="row" role="rowheader" class="cp-project"><span class="cp-assignment-title">GIAE Baseline Studies</span><span class="cp-client">GFA Consulting Group</span></th> -->
+<!--       <td role="cell" class="cp-role"><span class="cp-mobile-label" aria-hidden="true">Role</span>International expert</td> -->
+<!--       <td role="cell" class="cp-number cp-days"><span class="cp-mobile-label" aria-hidden="true">Days</span>35</td> -->
+<!--       <td role="cell" class="cp-number cp-abroad"><span class="cp-mobile-label" aria-hidden="true">Days abroad</span><span aria-hidden="true">—</span><span class="cp-sr-only">Not separately recorded</span></td> -->
+<!--     </tr> -->
+<!--   </tbody> -->
+<!-- </table> -->
+<!-- ``` -->
+
+<!-- :::: {.cp-notes #cp-assignment-notes} -->
+
+<!-- GIAE refers to the [Green Innovation Centres in the agriculture and food sector](https://www.giz.de/en/projects/green-innovation-centres-agriculture-and-food-sector){.cp-link}. GFA assignments are listed under the contracting consultancy, GFA Consulting Group. -->
+
+<!-- ::: {#cp-unido-note} -->
+
+<!-- \* The UNIDO entry records two assignment days, including a subcontracted contribution. -->
+
+<!-- ::: -->
+
+<!-- :::: -->
+
+

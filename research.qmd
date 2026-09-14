@@ -1,0 +1,308 @@
+---
+title: "Research"
+pagetitle: "Research | Finn Ole Semrau"
+description: "*International, environmental, development and innovation economics*"
+toc: false
+format:
+  html:
+    css:
+      - styles.css
+      - research.css
+---
+
+::: {.rp-intro}
+
+What drives sustainable development in a globalized world? I study how **industrial policy, global value chains and foreign direct investment** shape green innovation, corporate social responsibility and firms' environmental performance.
+
+My empirical work draws on rich firm-level datasets from India, China and European economies. I link detailed information on firms' production, ownership and international activities to measures of innovation, emissions, pollution abatement and social responsibility. This allows me to examine how firms respond differently to economic incentives, policy interventions and their position in global production networks.
+
+:::
+
+## Selected Peer-Reviewed Publications
+
+:::: {.rp-publications .rp-selected}
+
+::: {.rp-paper #paper-upstreamness}
+
+<p class="rp-journal"><a class="rp-link" href="https://doi.org/10.1016/j.jeem.2026.103324">Journal of Environmental Economics and Management</a> · 2026 · 138, 103324</p>
+
+### Upstreamness, Foreign Environmental Regulation and CO₂ Emissions in Indian Manufacturing Firms {.rp-title}
+
+<p class="rp-authors">F. O. Semrau</p>
+
+<details class="rp-summary">
+<summary>Short summary<span class="rp-sr-only">: Upstreamness, Foreign Environmental Regulation and CO₂ Emissions in Indian Manufacturing Firms</span></summary>
+<p>Indian manufacturers further upstream emit more CO₂, both in absolute terms and relative to output. This relationship weakens in industries more exposed to stringent environmental regulation in export markets.</p>
+</details>
+
+:::
+
+::: {.rp-paper #paper-csr}
+
+<p class="rp-journal"><a class="rp-link" href="https://doi.org/10.1016/j.jdeveco.2023.103236">Journal of Development Economics</a> · 2024 · 167, 103236</p>
+
+### Corporate Social Responsibility along the Global Value Chain {.rp-title}
+
+<p class="rp-authors">P. Herkenhoff, S. Krautheim, F. O. Semrau and F. Steglich</p>
+
+<details class="rp-summary">
+<summary>Short summary<span class="rp-sr-only">: Corporate Social Responsibility along the Global Value Chain</span></summary>
+<p>A model of sequential production predicts greater corporate social responsibility closer to final consumers. Indian firm-level data support this prediction: downstream firms spend more on staff welfare and local communities.</p>
+</details>
+
+:::
+
+::::
+
+::: {.rp-talk-photo}
+
+![](images/research-talk.jpg){fig-alt="Research presentation"}
+
+:::
+
+## Further Peer-Reviewed Publications
+
+:::: {.rp-publications}
+
+::: {.rp-paper #paper-green-gifts}
+
+<p class="rp-journal"><a class="rp-link" href="https://doi.org/10.1057/s42214-025-00228-4">Journal of International Business Policy</a> · 2026 · 9, 82–101</p>
+
+### Green Gifts from Abroad? FDI and Firms' Green Management {.rp-title}
+
+<p class="rp-authors">P. Kannen, F. O. Semrau and F. Steglich</p>
+
+<details class="rp-summary">
+<summary>Short summary<span class="rp-sr-only">: Green Gifts from Abroad? FDI and Firms' Green Management</span></summary>
+<p>Across 31 countries, foreign ownership is associated with greater adoption of green management practices. The relationship depends on host-country income and the environmental performance of the countries supplying its FDI.</p>
+</details>
+
+:::
+
+::: {.rp-paper #paper-coffee}
+
+<p class="rp-journal"><a class="rp-link" href="https://doi.org/10.1002/jid.70033">Journal of International Development</a> · 2026 · 38(1), 88–111</p>
+
+### Climbing the Coffee Global Value Chain—Three Decades of Trade and Upgrading {.rp-title}
+
+<p class="rp-authors">A. Hanley, W.-H. Liu, F. O. Semrau and D. Görlich</p>
+
+<details class="rp-summary">
+<summary>Short summary<span class="rp-sr-only">: Climbing the Coffee Global Value Chain—Three Decades of Trade and Upgrading</span></summary>
+<p>Trade data for 1991–2018 document uneven progress from raw coffee exports to processing. Industrial capacity, proximity to processing hubs, coffee varieties and trade policy are associated with different upgrading paths.</p>
+</details>
+
+:::
+
+::: {.rp-paper #paper-rd-support}
+
+<p class="rp-journal"><a class="rp-link" href="https://doi.org/10.1080/09640568.2024.2359442">Journal of Environmental Planning and Management</a> · 2026 · 69(1), 1–27</p>
+
+### It's Not a Sprint, It's a Marathon: Reviewing Governmental R&amp;D Support for Environmental Innovation {.rp-title}
+
+<p class="rp-authors">L. P. Meissner, S. Peterson and F. O. Semrau</p>
+
+<details class="rp-summary">
+<summary>Short summary<span class="rp-sr-only">: It's Not a Sprint, It's a Marathon: Reviewing Governmental R&amp;D Support for Environmental Innovation</span></summary>
+<p>The review finds that emissions pricing alone is insufficient to stimulate environmental innovation. Theory and evidence support complementing it with public R&amp;D funding to advance clean technologies and reduce emissions.</p>
+</details>
+
+:::
+
+::: {.rp-paper #paper-ict}
+
+<p class="rp-journal"><a class="rp-link" href="https://doi.org/10.1016/j.techfore.2025.123985">Technological Forecasting &amp; Social Change</a> · 2025 · 213, 123985</p>
+
+### Connecting the Unconnected? Social Ties and ICT Adoption among Smallholder Farmers in Developing Countries {.rp-title}
+
+<p class="rp-authors">L. Kleemann and F. O. Semrau</p>
+
+<details class="rp-summary">
+<summary>Short summary<span class="rp-sr-only">: Connecting the Unconnected? Social Ties and ICT Adoption among Smallholder Farmers in Developing Countries</span></summary>
+<p>Household data from 12 developing countries link weaker social connections to lower uptake of digital technologies and poorer access to agricultural advice. Digitalisation can therefore reinforce existing information inequalities among smallholder farmers.</p>
+</details>
+
+:::
+
+::: {.rp-paper #paper-exports}
+
+<p class="rp-journal"><a class="rp-link" href="https://doi.org/10.1080/13662716.2021.2021865">Industry &amp; Innovation</a> · 2022 · 29(5), 672–700</p>
+
+### Stepping Up to the Mark? Firms' Export Activity and Environmental Innovation in 14 European Countries {.rp-title}
+
+<p class="rp-authors">A. Hanley and F. O. Semrau</p>
+
+<details class="rp-summary">
+<summary>Short summary<span class="rp-sr-only">: Stepping Up to the Mark? Firms' Export Activity and Environmental Innovation in 14 European Countries</span></summary>
+<p>Exporting is associated with greener production processes, particularly in Eastern European firms. Across the sample, exposure to export markets with stringent market-based environmental policies is linked to greater adoption of environmental innovations.</p>
+</details>
+
+:::
+
+::: {.rp-paper #paper-brazil}
+
+<p class="rp-journal"><a class="rp-link" href="https://doi.org/10.1002/jid.3276">Journal of International Development</a> · 2017 · 29(3), 287–307</p>
+
+### Brazil's Development Cooperation: Following in China's and India's Footsteps? {.rp-title}
+
+<p class="rp-authors">F. O. Semrau and R. Thiele</p>
+
+<details class="rp-summary">
+<summary>Short summary<span class="rp-sr-only">: Brazil's Development Cooperation: Following in China's and India's Footsteps?</span></summary>
+<p>Brazil's development cooperation is shaped mainly by historical and cultural links, with some attention to recipient need and governance. The findings challenge the idea that emerging donors allocate aid solely to advance their own interests.</p>
+</details>
+
+:::
+
+::::
+
+## Other Academic Publications
+
+::: {.rp-chapter}
+
+### Firms' Global Value Chain Participation and Its Environmental Performance: A Review of the Empirical Literature {.rp-title}
+
+<p class="rp-authors">F. O. Semrau · 2023</p>
+
+<p class="rp-book">In F. J. Díaz López, M. Mazzanti and R. Zoboli (eds.), <a class="rp-link" href="https://doi.org/10.4337/9781802200065.00016">Handbook on Innovation, Society and the Environment</a>. Edward Elgar Publishing, pp. 125–139.</p>
+
+:::
+
+
+## Work in Progress
+
+:::: {.rp-work-grid}
+
+::: {.rp-work}
+
+### Unveiling the Green Trail: FDI, Global Value Chains and Firm Pollution in China {.rp-title}
+
+<p class="rp-authors">With Holger Görg, Lars Hecker and Zheng Wang</p>
+<p class="rp-status">*Under review*</p>
+
+How foreign ownership and firms' positions in global value chains interact in shaping pollution abatement in Chinese manufacturing.
+
+:::
+
+::: {.rp-work}
+
+### Tournament Industrial Policy: China's Subnational Competition for Hydrogen Leadership {.rp-title}
+
+<p class="rp-authors">With Benno Schöl and Jian Zhang</p>
+
+How subnational governments in China compete for hydrogen leadership and how their policy choices affect technological innovation.
+
+:::
+
+::: {.rp-work}
+
+
+::: {.rp-work}
+
+### Green Public Financial Support and Policy Mixes: Firm-Level Evidence on Environmental Innovation Adoption {.rp-title}
+
+<p class="rp-authors">Single-authored</p>
+
+How green public financial support interacts with regulation and market incentives in firms' adoption of environmental innovations.
+
+:::
+
+::: {.rp-work}
+
+### Disentangling the Effects of Domestic Customer Collaboration on Exports: The Information and Innovation Effects {.rp-title}
+
+<p class="rp-authors">With Dirk Dohse, Aoife Hanley and Christina Raasch</p>
+
+Whether collaboration with domestic customers helps firms export through better market information and innovation.
+
+:::
+
+::::
+
+## Conference & Workshop Presentations
+
+:::: {.rp-work-grid}
+
+::: {.rp-work}
+
+### Selected Conferences {.rp-title}
+
+- World Congress of Environmental and Resource Economists (WCERE)  
+  2026, Lisbon, Portugal
+
+- DRUID Conference  
+  2026 and 2019 (poster), Copenhagen, Denmark
+
+- GDE Conference and 1st Conference of the EDEG  
+  2026, Kiel, Germany
+
+- Geography of Innovation Conference (GeoInno)  
+  2026, Budapest, Hungary
+
+- Kiel–Göttingen–CEPR Conference on China in the Global Economy  
+  2025, Berlin, Germany
+
+- European Association of Environmental and Resource Economists (EAERE) Annual Conference  
+  2024 (Leuven, Belgium) , 2021 (online) and 2019 (Manchester, United Kingdom)
+
+- European Trade Study Group (ETSG) Annual Conference  
+  2024 (Athen, Greece) and 2019 (Bern, Switzerland)
+
+- Verein für Socialpolitik Annual Meeting  
+  2022 (Basel, Switzerland) and 2019 (Leipzig, Germany)
+
+- Research Conference “Sustainability in Global Value Chains”, co-organised by UNIDO  
+  2021, online
+
+- Economic Geography and International Trade Research Meeting  
+  2020, Kiel, Germany
+
+- PEGNet Conference  
+  2019, Bonn, Germany
+
+:::
+
+::: {.rp-work}
+
+### Selected Workshops {.rp-title}
+
+- "Economics of Low-Carbon Markets" workshop, University of Oldenburg  
+  2026, Oldenburg, Germany
+
+- Symposium “Europe's Industrial Policy Options in the Digital, Green and Geoeconomic Transitions”, funded by the Volkswagen Foundation  
+  2026, Hannover, Germany
+
+- Aarhus–Kiel Workshop  
+  2025, 2024, 2018 and 2017, Sonderburg, Denmark
+
+- Society on Environmental Innovations Workshop  
+  2024, Ferrara, Italy
+
+- Kiel Institute Workshop “The Role of Public Research and Innovation Measures on Mitigating Climate Change”  
+  2023, Kiel, Germany
+
+- Göttinger Workshop “Internationale Wirtschaftsbeziehungen”  
+  2022, 2020 and 2019, Göttingen, Germany
+
+- SEEDS Annual Workshop  
+  2020, online
+
+- Centre for Research in Circular Economy, Innovation and SMEs Workshop  
+  2019, Ferrara, Italy
+
+- INFER Workshop on Environment and Development Economics  
+  2019, Coimbra, Portugal
+
+:::
+
+::::
+
+
+::: {.rp-footer}
+
+Policy publications and public commentary are listed under [Policy & Media](policy.qmd){.rp-link}.
+
+:::
+
+
+:::::
