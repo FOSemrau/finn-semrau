@@ -1,7 +1,7 @@
 ---
 title: "Research"
 pagetitle: "Research | Finn Ole Semrau"
-description: "*International, environmental, development and innovation economics*"
+description: "Research on international economics, industrial policy, global value chains, FDI and the green transformation"
 toc: false
 format:
   html:
@@ -12,9 +12,9 @@ format:
 
 ::: {.rp-intro}
 
-What drives sustainable development in a globalized world? I study how **industrial policy, global value chains and foreign direct investment** shape green innovation, corporate social responsibility and firms' environmental performance.
+My research sits at the intersection of **international economics, industrial policy and environmental economics**. I study how **global value chains and foreign direct investment** shape firm behaviour and environmental performance, and how **industrial policy** influences technological competition and the green transformation.
 
-My empirical work draws on rich firm-level datasets from India, China and European economies. I link detailed information on firms' production, ownership and international activities to measures of innovation, emissions, pollution abatement and social responsibility. This allows me to examine how firms respond differently to economic incentives, policy interventions and their position in global production networks.
+My empirical work draws primarily on firm-level and policy data from China, India and European economies. I combine information on firms' production, ownership and international activities with measures of innovation, emissions, pollution abatement and environmental management, using applied microeconometric methods to study how firms respond to international integration and policy interventions.
 
 :::
 
@@ -52,18 +52,6 @@ My empirical work draws on rich firm-level datasets from India, China and Europe
 
 :::
 
-::::
-
-::: {.rp-talk-photo}
-
-![](images/research-talk.jpg){fig-alt="Research presentation"}
-
-:::
-
-## Further Peer-Reviewed Publications
-
-:::: {.rp-publications}
-
 ::: {.rp-paper #paper-green-gifts}
 
 <p class="rp-journal"><a class="rp-link" href="https://doi.org/10.1057/s42214-025-00228-4">Journal of International Business Policy</a> · 2026 · 9, 82–101</p>
@@ -78,6 +66,18 @@ My empirical work draws on rich firm-level datasets from India, China and Europe
 </details>
 
 :::
+
+::::
+
+::: {.rp-talk-photo}
+
+![](images/research-talk.jpg){fig-alt="Research presentation"}
+
+:::
+
+## Further Peer-Reviewed Publications
+
+:::: {.rp-publications}
 
 ::: {.rp-paper #paper-coffee}
 
@@ -196,10 +196,7 @@ How subnational governments in China compete for hydrogen leadership and how the
 
 ::: {.rp-work}
 
-
-::: {.rp-work}
-
-### Green Public Financial Support and Policy Mixes: Firm-Level Evidence on Environmental Innovation Adoption {.rp-title}
+### Green Public Financial Support and the Policy Mix: Drivers of Firms' Environmental Innovation {.rp-title}
 
 <p class="rp-authors">Single-authored</p>
 
@@ -219,9 +216,36 @@ Whether collaboration with domestic customers helps firms export through better 
 
 ::::
 
-## Conference & Workshop Presentations
+## Invited Seminars, Conferences & Workshops
 
 :::: {.rp-work-grid}
+
+::: {.rp-work}
+
+### Invited Seminars {.rp-title}
+
+- Université Paris 1 Panthéon-Sorbonne  
+  July 2027 (scheduled), Paris, France
+
+- Tinbergen Institute Spatial Economics Seminar  
+  February 2027 (scheduled), Amsterdam, Netherlands
+
+- Vrije Universiteit Amsterdam  
+  November 2026 (scheduled), Amsterdam, Netherlands
+
+- German Council of Economic Experts  
+  2026, Berlin, Germany
+
+- European Commission JRC Industrial Innovation and Dynamics Seminar  
+  2023, Seville, Spain
+
+- Department of Economics and Management, University of Ferrara  
+  2022, Ferrara, Italy
+
+- Trinity College Economic Seminar  
+  2019, Dublin, Ireland
+
+:::
 
 ::: {.rp-work}
 
@@ -243,13 +267,13 @@ Whether collaboration with domestic customers helps firms export through better 
   2025, Berlin, Germany
 
 - European Association of Environmental and Resource Economists (EAERE) Annual Conference  
-  2024 (Leuven, Belgium) , 2021 (online) and 2019 (Manchester, United Kingdom)
+  2024, Leuven, Belgium; 2021, online and 2019, Manchester, United Kingdom
 
 - European Trade Study Group (ETSG) Annual Conference  
-  2024 (Athen, Greece) and 2019 (Bern, Switzerland)
+  2024, Athens, Greece and 2019, Bern, Switzerland
 
 - Verein für Socialpolitik Annual Meeting  
-  2022 (Basel, Switzerland) and 2019 (Leipzig, Germany)
+  2022, Basel, Switzerland and 2019, Leipzig, Germany
 
 - Research Conference “Sustainability in Global Value Chains”, co-organised by UNIDO  
   2021, online
@@ -258,34 +282,31 @@ Whether collaboration with domestic customers helps firms export through better 
   2020, Kiel, Germany
 
 - PEGNet Conference  
-  2019, Bonn, Germany
+  2019 (poster), Bonn, Germany
 
 :::
 
 ::: {.rp-work}
 
-### Selected Workshops {.rp-title}
+### Selected Workshops & Symposia {.rp-title}
 
-- "Economics of Low-Carbon Markets" workshop, University of Oldenburg  
+- Economics of Low-Carbon Markets  
   2026, Oldenburg, Germany
 
-- Symposium “Europe's Industrial Policy Options in the Digital, Green and Geoeconomic Transitions”, funded by the Volkswagen Foundation  
+- Symposium “Europe's Industrial Policy Options in the Digital, Green and Geoeconomic Transitions”  
   2026, Hannover, Germany
 
 - Aarhus–Kiel Workshop  
-  2025, 2024, 2018 and 2017, Sonderburg, Denmark
+  2025, 2024, 2018 and 2017, Sonderborg, Denmark
 
-- Society on Environmental Innovations Workshop  
-  2024, Ferrara, Italy
-
-- Kiel Institute Workshop “The Role of Public Research and Innovation Measures on Mitigating Climate Change”  
-  2023, Kiel, Germany
-
-- Göttinger Workshop “Internationale Wirtschaftsbeziehungen”  
-  2022, 2020 and 2019, Göttingen, Germany
+- Society for Eco-Innovation Studies Workshop  
+  2024, HEC Paris, France
 
 - SEEDS Annual Workshop  
-  2020, online
+  2023, Ferrara, Italy; 2020, online
+
+- Göttingen Workshop on International Economics  
+  2022, 2020 and 2019, Göttingen, Germany
 
 - Centre for Research in Circular Economy, Innovation and SMEs Workshop  
   2019, Ferrara, Italy
@@ -305,4 +326,3 @@ Policy publications and public commentary are listed under [Policy & Media](poli
 :::
 
 
-:::::

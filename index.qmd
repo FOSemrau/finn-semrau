@@ -36,12 +36,11 @@ I study how **global value chains and foreign direct investment** shape firms’
 
 ::: {.about-text}
 
-I am an economist and postdoctoral researcher at the [Kiel Institute for the World Economy](https://www.kielinstitut.de/de/expertinnen-und-experten/finn-ole-semrau/){.inline-link}, where I serve as Deputy Research Head of the [Industrial Policy Lab](https://industrialpolicylab.de/de/start/){.inline-link}.
+I am an economist and postdoctoral researcher at the [Kiel Institute for the World Economy](https://www.kielinstitut.de/de/expertinnen-und-experten/finn-ole-semrau/){.inline-link}, where I serve as Deputy Scientific Lead of the [Industrial Policy Lab](https://industrialpolicylab.de/de/start/){.inline-link}.
 
-My research examines how firms’ participation in and position within **global value chains** relate to corporate social responsibility, environmental innovation, emissions and pollution. A second strand studies how **industrial policy** can promote clean technologies and strengthen competitiveness. This work focuses on the EU’s evolving industrial policy, including the **Industrial Accelerator Act**, and on **China** both as a major industrial competitor and as a case of subnational competition to scale up **hydrogen** technologies.
+My research sits at the intersection of **international economics, industrial policy and environmental economics**. I study firm behaviour in global value chains, the effects of foreign direct investment and the role of industrial policy in technological competition and the green transformation. I work primarily with firm-level and policy data and use applied microeconometric methods.
 
-
-I connect this research to policy and practice by advising ministries, international organisations and firms, contributing to applied projects and engaging in public debate.
+I connect this research to policy and practice by working with ministries, international organisations and firms, contributing to applied projects and engaging in public debate.
 
 [More about my research →](research.qmd)
 
@@ -152,11 +151,11 @@ How public support, regulation and market incentives influence firms’ adoption
 
 ## Policy & Public Engagement
 
-My policy work translates empirical research into practical choices about policy design. Through the [Industrial Policy Lab](https://industrialpolicylab.de/de/start/){.inline-link}, I assess how instruments such as public financial support, procurement, local-content requirements and conditions on foreign investment can advance **decarbonisation, resilience and competitiveness** while preserving competition.
+My policy work translates economic research and analysis into practical choices about policy design. Through the [Industrial Policy Lab](https://industrialpolicylab.de/de/start/){.inline-link}, I assess how instruments such as public financial support, procurement, local-content requirements and conditions on foreign investment can advance **decarbonisation, resilience and competitiveness** while preserving competition.
 
-Over the past decade, I have contributed to research, evaluation and policy projects for *German federal ministries, the European Parliament, UNIDO and GIZ*. I have also directly worked with researchers at the *European Commission’s Joint Research Centre* during a three-month research visit in Seville.
+Over the past decade, I have contributed to research, evaluation and policy projects for *German federal ministries, the European Parliament, UNIDO and GIZ*. I have also worked with researchers at the *European Commission’s Joint Research Centre* during a three-month research visit in Seville.
 
-I regularly discuss research and economic policy with wider audiences through interviews and commentary for *dpa, Deutschlandfunk, NDR, MDR* and *ProSieben*.
+I regularly contribute interviews and commentary on economic policy to *dpa, Deutschlandfunk, NDR, MDR, ARD, Table.Media (China.Table) and Tagesspiegel Background*.
 
 [Explore policy & media →](policy.qmd){.research-button}
 
@@ -180,7 +179,7 @@ I regularly discuss research and economic policy with wider audiences through in
 
 Since 2016, I have completed more than 20 assignments and over 500 consulting days as an independent consultant and international expert in development cooperation.
 
-My work for **GIZ, GFA Consulting Group and UNIDO** and other partners covers research, survey design, statistical sampling, monitoring and evaluation, training and quality assurance. I have worked as a team leader, coordinator and trainer, with field experience in Mozambique and Kenya.
+My work for **GIZ, GFA Consulting Group, UNIDO and other partners** covers research, survey design, statistical sampling, monitoring and evaluation, training and quality assurance. I have worked as a team leader, coordinator and trainer, with field experience in Mozambique and Kenya.
 
 ::: {.consultancy-points}
 
