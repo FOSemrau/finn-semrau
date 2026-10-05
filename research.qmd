@@ -71,7 +71,11 @@ My empirical work draws primarily on firm-level and policy data from China, Indi
 
 ::: {.rp-talk-photo}
 
-![](images/research-talk.jpg){fig-alt="Research presentation"}
+![](images/research-talk_Ediane Tiago.jpg){fig-alt="Research presentation at the University of Oldenburg"}
+
+<div class="rp-photo-note">
+Research Workshop · University of Oldenburg · September 2026 · Foto by Ediane Tiago
+</div>
 
 :::
 
