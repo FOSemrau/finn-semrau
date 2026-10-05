@@ -465,9 +465,31 @@
 .policy-page .pp-media-photo img {
   display: block;
   width: 100%;
+  max-width: 100%;
   height: auto;
   margin-inline: auto;
   border-radius: 4px;
+}
+
+.policy-page .pp-photo-note {
+  margin-top: 0.45rem;
+  color: var(--pp-muted);
+  font-size: 0.72rem;
+  line-height: 1.35;
+}
+
+.policy-page .pp-photo-note a,
+.policy-page .pp-photo-note a:visited {
+  color: var(--pp-muted);
+  font-size: inherit;
+  line-height: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+
+.policy-page .pp-photo-note a:hover {
+  color: var(--pp-accent-dark);
 }
 
 @media (max-width: 850px) {
@@ -475,5 +497,9 @@
     width: 88%;
     max-width: 420px;
     margin: 1.25rem auto 2rem;
+  }
+
+  .policy-page .pp-photo-note {
+    font-size: 0.68rem;
   }
 }

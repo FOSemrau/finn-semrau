@@ -305,11 +305,17 @@ My research and policy analysis also feature in **dpa, Süddeutsche Zeitung, Saa
 
 ### Selected Examples
 
-[Deutschlandfunk: Green Transformation of the Steel Industry →](https://www.ardsounds.de/episode/urn:ard:episode:1df16b9517b6820a/){.pp-link} ·
-[ARD Klimaupdate: Coffee, Climate and Global Production →](https://www.mdr.de/wissen/umwelt-klima/kaffeepreise-kaffee-teuer-gruende-loesungen-billiger-klima-klimawandel-100.html){.pp-link} ·
-[NDR: Cocoa Prices and Chocolate →](https://www.ndr.de/nachrichten/schleswig-holstein/warum-der-schoko-weihnachtsmann-dieses-jahr-so-teuer-ist,schokoladenpreise-108.html){.pp-link} ·
-[Saarbrücker Zeitung: Green Steel in Saarland →](https://www.saarbruecker-zeitung.de/saarland/saar-wirtschaft/saarland-wird-gruener-stahl-zum-milliardengrab_aid-153819537){.pp-link} ·
-[Table.Media: Europe’s Industrial Policy Response to China →](https://table.media/en/china/opinion/iaa-a-step-in-the-right-direction-but-just-one-step){.pp-link}
+[→ WDR5 Morgenecho: Coffee Trade, Sustainability and Fairtrade (Live Interview)](https://www.ardsounds.de/episode/urn:ard:section:c3ffa745b35a9281/){.pp-link}
+
+[→ Deutschlandfunk: Green Transformation of the Steel Industry (Radio Interview)](https://www.ardsounds.de/episode/urn:ard:episode:1df16b9517b6820a/){.pp-link}
+
+[→ NDR Television: Cocoa Prices and Chocolate (TV Interview)](https://www.ndr.de/nachrichten/schleswig-holstein/warum-der-schoko-weihnachtsmann-dieses-jahr-so-teuer-ist,schokoladenpreise-108.html){.pp-link}
+
+[→ ARD Klimaupdate: Coffee, Climate and Global Production (Audio Interview)](https://www.mdr.de/wissen/umwelt-klima/kaffeepreise-kaffee-teuer-gruende-loesungen-billiger-klima-klimawandel-100.html){.pp-link}
+
+[→ Saarbrücker Zeitung: Green Steel in Saarland (Print Interview)](https://www.saarbruecker-zeitung.de/saarland/saar-wirtschaft/saarland-wird-gruener-stahl-zum-milliardengrab_aid-153819537){.pp-link}
+
+[→ Table.Media: Europe’s Industrial Policy Response to China (Op-Ed)](https://table.media/en/china/opinion/iaa-a-step-in-the-right-direction-but-just-one-step){.pp-link}
 
 
 ::: {.pp-contact}
