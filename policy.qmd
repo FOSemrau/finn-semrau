@@ -42,7 +42,7 @@ Screenshot: NDR
 
 ### Green Industrial Policy and Decarbonisation {.pp-topic-title}
 
-I examine how governments can support industrial decarbonisation through carbon pricing, innovation policy and infrastructure investment, with a particular focus on energy-intensive industries, green steel and hydrogen technologies.
+I examine how green industrial policy can accelerate industrial decarbonisation and clean energy deployment through carbon pricing, innovation support and infrastructure investment, with a focus on energy-intensive industries, green steel, hydrogen and offshore wind energy.
 
 :::
 
@@ -140,16 +140,6 @@ I investigate how national strategies, local government competition and public s
 :::
 
 ::::
-
-::: {.pp-talk-photo}
-
-![](images/policy_talk2©EKSH-Jan Kulke.jpg)
-
-<div class="pp-photo-note">
-© EKSH · Jan Kulke · at PowerNet 2024
-</div>
-
-:::
 
 ## Further Policy Writing
 
@@ -286,19 +276,32 @@ Organiser, speaker and panellist at “Hydrogen Valley Northern Germany: Green T
 
 I regularly contribute interviews and commentary on **industrial policy and geoeconomics, the green transformation and sustainability in global value chains**. Recent contributions cover Europe’s industrial policy response to China, hydrogen and industrial decarbonisation as well as sustainability, working conditions and price developments in global coffee and cocoa value chains.
 
+::: {.pp-talk-photo}
+
+[![](images/261023_Tagesschau.png)](https://www.tagesschau.de/video/video-1671370.html)
+
+<div class="pp-photo-note">
+ARD tagesschau · 23 October 2026 · [Offshore wind industry](https://www.tagesschau.de/video/video-1671370.html){.pp-link}  
+Screenshot: ARD-aktuell / NDR
+</div>
+
+:::
+
 ### Radio & Audio
 
 I give live interviews and contribute to radio and podcast formats for **WDR5, Deutschlandfunk, MDR and RBB/1LIVE**, discussing topics ranging from European industrial policy and green steel to coffee trade and sustainability along global value chains.
 
 ### Television
 
-I provide expert commentary for **NDR, MDR and ProSieben/Sat.1**, including interviews on the green transformation of the steel industry, offshore energy and global coffee and cocoa markets, with a focus on industrial policy, sustainability and implications for producers and consumers.
+I provide expert commentary for **ARD tagesschau, ZDF, NDR, MDR and ProSieben/Sat.1** on industrial policy, the green transformation and sustainability in global value chains. Recent television interviews have addressed offshore wind energy, green steel and global coffee and cocoa markets.
 
 ### Print & Online Media
 
 My research and policy analysis also feature in **dpa, Süddeutsche Zeitung, NDR, Saarbrücker Zeitung, Tagesspiegel Background, Table.Media, Semafor** and other national and international outlets. Contributions cover European industrial policy and competition with China as well as developments in global value chains and international production and trade.
 
 ### Selected Examples
+
+[→ ARD tagesschau / NDR Hallo Niedersachsen: Offshore Wind Industry Under Pressure (TV Interview)](https://www.tagesschau.de/video/video-1671370.html){.pp-link} · [NDR broadcast](https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/nordenham-offshore-windindustrie-warnt-vor-auftragsluecke,hallonds-11126.html){.pp-link}
 
 [→ NDR Television: Salzgitter's Transition to Green Steel (TV Interview)](https://www.ndr.de/nachrichten/niedersachsen/braunschweig_harz_goettingen/salzgitter-ag-endspurt-beim-umbau-zu-gruenem-stahl,salzgitterag-108.html){.pp-link}
 

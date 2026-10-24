@@ -36,7 +36,7 @@ I study how **global value chains and foreign direct investment** shape firms’
 
 ::: {.about-text}
 
-I am an economist and postdoctoral researcher at the [Kiel Institute for the World Economy](https://www.kielinstitut.de/de/expertinnen-und-experten/finn-ole-semrau/){.inline-link}, where I serve as Deputy Scientific Lead of the [Industrial Policy Lab](https://industrialpolicylab.de/de/start/){.inline-link}.
+I am an economist and postdoctoral researcher at the [Kiel Institute for the World Economy](https://www.kielinstitut.de/de/expertinnen-und-experten/finn-ole-semrau/){.inline-link}, where I serve as Deputy Scientific Lead of the [Industrial Policy Lab](https://industrialpolicylab.de/de/start/){.inline-link}. I am also an Add-on Fellow of the [Joachim Herz Foundation](https://www.joachim-herz-stiftung.de/){.inline-link} (2026–2028).
 
 My research sits at the intersection of **international economics, industrial policy and environmental economics**. I study firm behaviour in global value chains, the effects of foreign direct investment and the role of industrial policy in technological competition and the green transformation. I work primarily with firm-level and policy data and use applied microeconometric methods.
 
