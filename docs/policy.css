@@ -417,7 +417,7 @@
    ========================================================= */
 
 .policy-page .pp-talk-photo {
-  width: 520px;
+  width: 680px;
   max-width: 100%;
   margin: 2.5rem auto 3rem;
 }
@@ -437,10 +437,16 @@
   border-radius: 4px;
 }
 
+/* Suppress markers generated on image links */
+.policy-page .pp-talk-photo a::after {
+  content: none !important;
+  display: none !important;
+}
+
 @media (max-width: 850px) {
   .policy-page .pp-talk-photo {
-    width: 82%;
-    max-width: 360px;
+    width: 100%;
+    max-width: 480px;
     margin: 2rem auto 2.5rem;
   }
 }
@@ -503,3 +509,6 @@
     font-size: 0.68rem;
   }
 }
+
+
+

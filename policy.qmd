@@ -277,13 +277,14 @@ Organiser, speaker and panellist at “Hydrogen Valley Northern Germany: Green T
 
 I regularly contribute interviews and commentary on **industrial policy and geoeconomics, the green transformation and sustainability in global value chains**. Recent contributions cover Europe's industrial policy response to China, hydrogen, offshore wind energy and industrial decarbonisation, as well as sustainability, working conditions and price developments in global coffee and cocoa value chains.
 
+
 ::: {.pp-talk-photo}
 
-[![](images/261023_Tagesschau.png)](https://www.tagesschau.de/video/video-1671370.html)
+![](images/261116_ZDF_MiMa_Stahl3.png)
 
 <div class="pp-photo-note">
-ARD tagesschau · 23 October 2026 · [Offshore wind industry](https://www.tagesschau.de/video/video-1671370.html){.pp-link}  
-Screenshot: ARD-aktuell / NDR
+ZDF Mittagsmagazin · 16 November 2026 · [The Future of Germany's Steel Industry](https://www.zdfheute.de/video/zdf-mittagsmagazin/semrau-stahlindustrie-zukunft-100.html){.pp-link}  
+Screenshot: ZDF
 </div>
 
 :::
