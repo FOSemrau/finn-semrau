@@ -48,9 +48,11 @@ I examine how green industrial policy can accelerate industrial decarbonisation 
 
 ::: {.pp-topic}
 
+
 ### The Industrial Accelerator Act {.pp-topic-title}
 
-I assess Europe's industrial policy response to the China Shock 2.0, focusing on whether instruments such as local-content requirements and public procurement effectively address decarbonisation, resilience and competitiveness.
+I assess Europe's industrial policy response to growing competition from China, focusing on the Industrial Accelerator Act and the debate over "Made in Europe" versus "Made with Europe". My work examines local-content rules, public procurement and requirements for foreign direct investment (FDI), and whether these instruments effectively support decarbonisation, resilience and competitiveness.
+
 
 :::
 
@@ -203,7 +205,7 @@ Invited participant in an expert workshop on the Industrial Accelerator Act and 
 
 ::: {.pp-event}
 
-<p class="pp-event-date">May 2026</p>
+<p class="pp-event-date">2026</p>
 
 ::: {.pp-event-copy}
 
@@ -218,7 +220,7 @@ Invited speaker on European industrial policy, competitiveness and strategic dep
 
 ::: {.pp-event}
 
-<p class="pp-event-date">March 2026</p>
+<p class="pp-event-date">2026</p>
 
 ::: {.pp-event-copy}
 
@@ -295,7 +297,7 @@ I give live interviews and contribute to radio and podcast formats for **WDR5, D
 
 ### Television
 
-I provide expert commentary for **ARD tagesschau, ZDF MiMa, ZDF WISO, NDR, MDR and ProSieben/Sat.1** on industrial policy, the green transformation and sustainability in global value chains. Recent appearances include a live interview on the competitiveness and future of Germany's steel industry, as well as contributions on offshore wind energy and global coffee and cocoa markets.
+I provide expert commentary for **ARD tagesschau, ZDF MiMa, ZDF WISO, ARD Klimazeit, NDR, MDR and ProSieben/Sat.1** on industrial policy, the green transformation and sustainability in global value chains. Recent appearances include a live interview on the competitiveness and future of Germany's steel industry, as well as contributions on offshore wind energy and global coffee and cocoa markets.
 
 ### Print & Online Media
 
@@ -305,9 +307,9 @@ My research and policy analysis also feature in **dpa, Süddeutsche Zeitung, NDR
 
 **Nov 2026** · [→ ZDF Mittagsmagazin: Competitiveness and Future of Germany's Steel Industry (Live TV Interview)](https://www.zdfheute.de/wirtschaft/stahl-industrie-gipfel-salzgitter-100.html){.pp-link}
 
-**Oct 2026** · [→ ZDF WISO: Offshore Wind Industry Under Pressure (TV Interview)](https://www.zdfheute.de/video/wiso/flaute-bei-offshore-windparks-100.html){.pp-link}
+**Oct–Nov 2026** · [→ ARD tagesschau: Offshore Wind Industry Under Pressure (TV Interview)](https://www.tagesschau.de/video/video-1671370.html){.pp-link} · [ARD Klimazeit: Additional Interview Excerpt (Nov 2026)](https://www.ardmediathek.de/video/klimazeit/warum-klemmt-es-beim-ausbau-der-offshore-energie-oder-klimazeit-vom-20-11-2026/tagesschau24/Y3JpZDovL3RhZ2Vzc2NoYXUuZGUvYjEyZmVlYmMtMGFiYS00NzM0LTgyOGQtZGY2ZDI1Mjk5NjczX2dhbnplU2VuZw){.pp-link} · [NDR: Extended Article](https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/offshore-industrie-in-der-krise-tausende-jobs-sind-gefaehrdet,offshore-230.html){.pp-link}
 
-**Oct 2026** · [→ ARD tagesschau: Offshore Wind Industry Under Pressure (TV Interview)](https://www.tagesschau.de/video/video-1671370.html){.pp-link} · [NDR: Extended Article](https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/offshore-industrie-in-der-krise-tausende-jobs-sind-gefaehrdet,offshore-230.html){.pp-link}
+**Oct 2026** · [→ ZDF WISO: Offshore Wind Industry Under Pressure (TV Interview)](https://www.zdfheute.de/video/wiso/flaute-bei-offshore-windparks-100.html){.pp-link}
 
 **Oct 2026** · [→ Kieler Nachrichten: Green Hydrogen in Schleswig-Holstein (Print Interview, KN+)](https://www.kn-online.de/wirtschaft/regional/gruener-wasserstoff-in-sh-neue-hoffnung-nach-dem-hype-und-der-ernuechterung-RWDGDG3N3ZFO3GPNEJ36XMSDBI.html){.pp-link}
 

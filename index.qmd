@@ -38,9 +38,11 @@ I study how **global value chains and foreign direct investment** shape firms’
 
 I am an economist and postdoctoral researcher at the [Kiel Institute for the World Economy](https://www.kielinstitut.de/de/expertinnen-und-experten/finn-ole-semrau/){.inline-link}, where I serve as Deputy Scientific Lead of the [Industrial Policy Lab](https://industrialpolicylab.de/de/start/){.inline-link}. I am also an Add-on Fellow of the [Joachim Herz Foundation](https://www.joachim-herz-stiftung.de/){.inline-link} (2026–2028).
 
-My research sits at the intersection of **international economics, industrial policy and environmental economics**. I study firm behaviour in global value chains, the effects of foreign direct investment and the role of industrial policy in technological competition and the green transformation. I work primarily with firm-level and policy data and use applied microeconometric methods.
+My research is motivated by the challenge of shaping an **open global economy that fosters innovation and prosperity while addressing climate change and global inequalities**. Working at the intersection of international, environmental and innovation economics, I study how global value chains, foreign investment and industrial policies shape firms' behaviour, environmental performance and technological development. 
 
-I connect this research to policy and practice by working with ministries, international organisations and firms, contributing to applied projects and engaging in public debate.
+My research draws on firm-level data from different countries and applied microeconometric methods, with a growing focus on the global race for technological leadership and the role of industrial policy.
+
+
 
 [More about my research →](research.qmd)
 
@@ -155,11 +157,13 @@ How public support, regulation and market incentives influence firms’ adoption
 
 ## Policy & Public Engagement
 
-My policy work translates economic research and analysis into practical choices about policy design. Through the [Industrial Policy Lab](https://industrialpolicylab.de/de/start/){.inline-link}, I assess how instruments such as public financial support, procurement, local-content requirements and conditions on foreign investment can advance **decarbonisation, resilience and competitiveness** while preserving competition.
 
-Over the past decade, I have contributed to research, evaluation and policy projects for *German federal ministries, the European Parliament, UNIDO and GIZ*. I have also worked with researchers at the *European Commission’s Joint Research Centre* during a three-month research visit in Seville.
+My policy work brings an international economics perspective to industrial policy and the green transformation. Through the [Industrial Policy Lab](https://industrialpolicylab.de/de/start/){.inline-link}, I examine how industrial policies shape technological competition, firms' investment decisions and international production networks. My current work covers the EU Industrial Accelerator Act, including the debate over "Made in Europe" versus "Made with Europe" and requirements on foreign investment, as well as the transformation of energy-intensive industries such as steel and the development of hydrogen technologies. Across these topics, I focus on the implications for decarbonisation, competitiveness and an open global economy.
 
-I regularly contribute interviews and commentary on economic policy to *dpa, Deutschlandfunk, NDR, MDR, ARD, Table.Media (China.Table) and Tagesspiegel Background*.
+Over the past decade, I have contributed to research, evaluation and policy projects for *German federal ministries, the European Parliament, UNIDO and GIZ*. I also spent three months as a visiting researcher at the *European Commission's Joint Research Centre* in Seville.
+
+I regularly contribute interviews and commentary on economic policy, industrial transformation and sustainability to *ZDF, ARD tagesschau, Deutschlandfunk, WDR5, NDR, dpa, Table.Media (China.Table) and Tagesspiegel Background*.
+
 
 [Explore policy & media →](policy.qmd){.research-button}
 
